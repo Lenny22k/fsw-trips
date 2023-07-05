@@ -1,0 +1,1 @@
+senha do supabase = kXg2igZbs5qLPzGa
